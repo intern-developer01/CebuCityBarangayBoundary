@@ -6919,7 +6919,7 @@
     {
       "type": "Feature",
       "properties": {
-        "BUSINESS_ALLOWED": "AGRICULTURE"
+        "BUSINESS_ALLOWED": "AGRICULTURAL"
       },
       "geometry": {
         "coordinates": [
@@ -7117,7 +7117,7 @@
     {
       "type": "Feature",
       "properties": {
-        "BUSINESS_ALLOWED": "AGRICULTURE"
+        "BUSINESS_ALLOWED": "AGRICULTURAL"
       },
       "geometry": {
         "coordinates": [
